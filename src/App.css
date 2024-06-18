@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.svg-container {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: inline-block;
+}
