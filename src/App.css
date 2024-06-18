@@ -4,7 +4,6 @@
   padding: 2rem;
   text-align: center;
 }
-
 .App {
   font-family: Arial, sans-serif;
   margin: 20px;
@@ -14,9 +13,15 @@ form {
   margin-bottom: 20px;
 }
 
-.svg-container {
-  margin-top: 20px;
+svg {
   border: 1px solid #ccc;
-  padding: 10px;
-  display: inline-block;
+  margin-top: 10px;
+}
+
+.drop-zone {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 60px;
 }
